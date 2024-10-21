@@ -8,5 +8,6 @@ This folder contains graphs in Python that piques my interest and I implemented 
 - [How to select charts and Viz inspiration](https://www.data-to-viz.com/#explore)
 - [Data viz inspiration](https://www.dataviz-inspiration.com/?tools=python)
 - [Datylon](https://insights.datylon.com/inspiration)
+- [Slides Inspiration](https://www.slidestart.com/slides)
 
 <img src="./2_imgs/poster_small.png">
