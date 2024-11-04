@@ -7,6 +7,7 @@ This folder contains graphs in Python that piques my interest and I implemented 
 - Storytelling with data: [Plots python](https://github.com/empathy87/storytelling-with-data), [Chart guide](https://www.storytellingwithdata.com/chart-guide)
 - [How to select charts and Viz inspiration](https://www.data-to-viz.com/#explore)
 - [Data viz inspiration](https://www.dataviz-inspiration.com/?tools=python)
+- [The Economist Style Guide](https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf)
 - [Datylon](https://insights.datylon.com/inspiration)
 - [Slides Inspiration](https://www.slidestart.com/slides)
 
