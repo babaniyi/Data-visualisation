@@ -15,4 +15,3 @@ from src.styles.colors import GRAY1, BLUE1, RED1
 from src.styles.swd import apply_swd_style
 from src.utils.annotations import rainbow_text
 ```
-

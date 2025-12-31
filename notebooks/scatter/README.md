@@ -12,4 +12,3 @@ Import shared utilities from the `src` folder:
 ```python
 from src.styles.colors import *
 ```
-

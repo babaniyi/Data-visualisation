@@ -13,4 +13,3 @@ Import shared utilities from the `src` folder:
 from src.styles.colors import *
 from src.styles.swd import apply_swd_style
 ```
-

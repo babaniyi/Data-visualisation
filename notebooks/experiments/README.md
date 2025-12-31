@@ -6,4 +6,3 @@ This folder contains experimental and exploratory notebooks:
 - **maps.ipynb** - Map visualizations
 
 These notebooks are for experimentation and learning purposes.
-

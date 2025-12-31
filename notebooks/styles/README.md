@@ -7,4 +7,3 @@ This folder contains style configuration examples:
 ## Usage
 
 These notebooks demonstrate how to apply different visualization styles. The actual style configurations are available in `src/styles/` for reuse across notebooks.
-

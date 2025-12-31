@@ -14,4 +14,3 @@ Import shared utilities from the `src` folder:
 from src.styles.colors import *
 from src.styles.economist import apply_economist_style
 ```
-
