@@ -53,6 +53,7 @@ tornado==6.5.1
 traitlets==5.14.3
 typing_extensions==4.14.0
 tzdata==2025.2
-urllib3==2.4.0
+# Pin to 1.x for LibreSSL compatibility (macOS system Python). Use 2.x if you have OpenSSL 1.1.1+
+urllib3>=1.26,<2
 wcwidth==0.2.13
 zipp==3.23.0
